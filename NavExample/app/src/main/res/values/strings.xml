@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Nav Example</string>
+    <string name="Guess">Guess_num</string>
+    <string name="count" />
+    <string name="result" />
+    <string name="input" />
+    <string name="Title" />
+    <string name="check" />
+    <string name="reset" />
+    <string name="Quiz">Quiz Game</string>
+    <string name="score">Score: %d</string>
+    <string name="question_count">%d of 10 questions</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="you_scored">"You scored: %d"</string>
+    <string name="exit">Exit</string>
+    <string name="play_again">Play Again</string>
+    <string name="Mem">Memory Game</string>
+</resources>
