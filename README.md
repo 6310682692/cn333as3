@@ -10,4 +10,4 @@ Game ดังนี้
 2. Quiz Game เป็นเกมส์ที่ตอบคำถาม 10 ข้อแล้วทำคะแนนให้ดีที่สุด
 3. Emoji Memory Game เป็นเกมส์ความจำคือต้องเปิดก่ร์ดทีละใบแล้วจับคู่ emoji ให้ถูกต้องเมื่อถูกต้องแล้วการ์ดจะหายไปชนะโดยการที่การ์ดหมดจอ
 
-Demo Video = https://drive.google.com/file/d/1pGux6zHNUx0U6f8CG0XFDl04BUTpOBtk/view?usp=sharing
+Demo Video = https://youtu.be/wuntTZuQN3g
